@@ -1,0 +1,1 @@
+print(tqdm.__doc__)
